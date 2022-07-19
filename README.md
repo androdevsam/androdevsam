@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Abdulsamad @androdevsam
+- 👀 I’m interested in android development ...
+- 🌱 I’m currently learning Android development on kotlin ...
+- 📫 How to reach me @androdevsam on twitter...
+
+<!---
+androdevsam/androdevsam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
